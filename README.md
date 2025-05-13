@@ -4,6 +4,9 @@ A modern web-based hotel management system with room booking and food ordering c
 
 ## 🎯 Features
 
+### 🌐 Live Demo
+[View Live Demo](https://luxstay-green.vercel.app/)
+
 ### Room Management
 - Dynamic room booking system
 - Date-based availability checking
@@ -108,13 +111,10 @@ code .
 4. Push to the branch
 5. Open a pull request
 
-## 📄 License
-
-MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Francis Kamau - 
 
 ## 🙏 Acknowledgments
 
@@ -123,4 +123,4 @@ MIT License - see the [LICENSE.md](LICENSE.md) file for details
 - MDN Web Docs for references
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Njuguna]
